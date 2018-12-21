@@ -1,0 +1,97 @@
+EESchema Schematic File Version 2
+LIBS:74xgxx
+LIBS:74xx
+LIBS:ac-dc
+LIBS:adc-dac
+LIBS:analog_switches
+LIBS:atmel
+LIBS:audio
+LIBS:brooktre
+LIBS:cmos_ieee
+LIBS:cmos4000
+LIBS:conn
+LIBS:contrib
+LIBS:cypress
+LIBS:dc-dc
+LIBS:device
+LIBS:digital-audio
+LIBS:display
+LIBS:dsp
+LIBS:elec-unifil
+LIBS:ftdi
+LIBS:gennum
+LIBS:graphic
+LIBS:intel
+LIBS:interface
+LIBS:linear
+LIBS:logo
+LIBS:memory
+LIBS:microchip
+LIBS:microchip_pic10mcu
+LIBS:microchip_pic12mcu
+LIBS:microchip_pic16mcu
+LIBS:microchip1
+LIBS:microcontrollers
+LIBS:motorola
+LIBS:msp430
+LIBS:nxp_armmcu
+LIBS:opto
+LIBS:philips
+LIBS:power
+LIBS:powerint
+LIBS:pspice
+LIBS:references
+LIBS:regul
+LIBS:relays
+LIBS:sensors
+LIBS:siliconi
+LIBS:special
+LIBS:stm8
+LIBS:stm32
+LIBS:supertex
+LIBS:texas
+LIBS:transf
+LIBS:transistors
+LIBS:ttl_ieee
+LIBS:valves
+LIBS:video
+LIBS:xilinx
+LIBS:meter_voltage_current
+LIBS:misc_parts
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L meter_voltage_current M?
+U 1 1 5C1C8E76
+P 5540 3125
+F 0 "M?" H 5540 3375 50  0000 C CNN
+F 1 "meter_voltage_current" H 5540 2925 50  0000 C CNN
+F 2 "" H 5190 2825 50  0001 C CNN
+F 3 "" H 5190 2825 50  0001 C CNN
+	1    5540 3125
+	1    0    0    -1  
+$EndComp
+$Comp
+L meter_voltage_current M?
+U 1 1 5C1C9E70
+P 6480 2240
+F 0 "M?" H 6480 2490 50  0000 C CNN
+F 1 "meter_voltage_current" H 6480 2040 50  0000 C CNN
+F 2 "" H 6130 1940 50  0001 C CNN
+F 3 "" H 6130 1940 50  0001 C CNN
+	1    6480 2240
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
